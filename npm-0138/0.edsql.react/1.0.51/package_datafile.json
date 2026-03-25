@@ -1,0 +1,57 @@
+{
+    "name": "0.edsql.react",
+    "version": "1.0.51",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@alitajs/gesture-password-react": "1.0.6",
+        "@ant-design/icons": "4.6.2",
+        "antd": "4.15.1",
+        "mobz": "0.13.0",
+        "react": "17.0.2",
+        "react-json-view": "1.21.3",
+        "react-use-hover": "2.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.2.4"
+    },
+    "gitHead": "25f86a13174d287842c63e9c78c7cf8be35a67e9",
+    "_id": "0.edsql.react@1.0.51",
+    "_nodeVersion": "14.16.0",
+    "_npmVersion": "lerna/4.0.0/node@v14.16.0+x64 (win32)",
+    "dist": {
+        "integrity": "sha512-9gpccYWg52LT/VBhy4V7N5AYRmphQDbp+taocTBBVEnmuKAU5Gs5k98vtPB9mU7fu+LqETC66QP+Xb5jNIc7Iw==",
+        "shasum": "7505181c5160c1fafdd61180e1d74ef6293b9844",
+        "tarball": "https://registry.npmjs.org/0.edsql.react/-/0.edsql.react-1.0.51.tgz",
+        "fileCount": 5,
+        "unpackedSize": 26876,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJg1wwvCRA9TVsSAnZWagAAr2AP/jXkp0WZy08Pr+ra6bVG\n3jjkA4WVKLnalP7vU+Qgk9HPG02XEezc+4cVtymE/iQzbg2yQp0qK3CaEvK+\ngK/nw8HdyZTAIQoEPwweZCPtKGlHuW2FzEnWN522jrYFDcUUjMVLsAxovYSn\n9l15lkeHT+fHmnKmqGBsVK6yuAu8ONhRrycdPVgwEZcxfzwby0k9v8YhaMO3\ndXBynFHa1TADuPR6AiBSNGrsrdcycZPMHh5sA7gUcrpHLFwbeGaKqLfODtn1\nUcSZJ7pIRVsFWiWMtyn5dLjxXI08+vLXskxKLU5cjTAqGXCS/yDk8bjVmQmd\nCscg6ARmNi8aJ2Dov6FF2j31rhCssZNEhRrTqHZgOU3a5zXpMdAaNK1OMTRG\niiB8p0mglkSBGgi1Ojj0Z5J3+zuIbgfJg7j5qBZOjzo2XsIy/AD1WMsilpZD\noQRj6KtGQi1RKnRFOJwKcdtBo4Vp4dqLQHRE56jB1wYf5b6Hz0POYvnXWMCl\nFtacKGvhEpmwoN/szNAUkgxft7kEZuLxXzJ1iJbpFm62m/jQK0XmRdBHtwCU\nCjzPF0KmP7OzLcWjfRbYT1cgrgOVX+DGJkK2TgJd5GnpRegK5Hi484t57GzY\nRbLIdb/xctwmOWRnzzwpq45lG7mY8A/jK24disIxuLDn1q9Zw3n4qJBOMQVX\n9p2n\r\n=lYYS\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHXa9PHBL+Ym1HcLDzn9v8AhzQCslkfEp1WcPEiRFQ7bAiEAlK17U8Iri58PFJ3BKphrVa+oy6X+owkGfOf10VOHCC0="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kitchens",
+        "email": "kitchens@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kitchens",
+            "email": "kitchens@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.edsql.react_1.0.51_1624706095292_0.842009531682181"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,59 @@
+{
+    "name": "-fides-amor-et-lux",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tea-forliann": "1.1.5",
+        "tea-triplble": "1.1.5",
+        "tea-resta": "1.0.0",
+        "tea-reversa": "1.0.0",
+        "tea-restasigne": "1.0.0",
+        "tea-reversasigne": "1.0.0",
+        "mytea-el": "1.2.4",
+        "teashot": "1.1.4",
+        "syncso": "1.1.4",
+        "zetaiyazeta": "1.0.0",
+        "axios": "^1.6.8"
+    },
+    "devDependencies": {},
+    "_id": "-fides-amor-et-lux@1.0.0",
+    "gitHead": "a64d05d2eb3d0a0fc9017737b6bf83d836d78cb4",
+    "_nodeVersion": "20.12.1",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-pdnsEu7UBI7L97T++/y9xrlFav/HPp6/v4oykDKakTO+x+gorkbp4GzM/SIbMjq+DzCZ4xYQd9sTQQ774MoXCQ==",
+        "shasum": "326f68807328866a52b888fe27e278da49184645",
+        "tarball": "https://registry.npmjs.org/-fides-amor-et-lux/-/-fides-amor-et-lux-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 839,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCx44HP+zG/Y0hjz8Bvk9wL3gqPvWA3bYac2orMaYLO9AIhAPhCktDtUuLtS4WucFGywwkEovxaBRDpf7KcdVcpg6Zy"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "sasa_kili",
+        "email": "sasakontii887@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sasa_kili",
+            "email": "sasakontii887@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-fides-amor-et-lux_1.0.0_1716111385263_0.7529934035178873"
+    },
+    "_hasShrinkwrap": false
+}
